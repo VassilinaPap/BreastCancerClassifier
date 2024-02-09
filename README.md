@@ -20,5 +20,5 @@ Download the prerequisite packages:
 * pip3 install -r requirements.txt
 
 For the application:
-* I run app.ipynb file in jupyter notebook
+* Run app.ipynb file in jupyter notebook
 * Then click on http://127.0.0.1:5000/
