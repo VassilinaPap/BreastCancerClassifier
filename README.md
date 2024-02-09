@@ -5,11 +5,11 @@ A UI is implemented with Python Flask ready to use for prediction.
 
 # Contents
 The folder contains:
--code project -> project.ipynb
--app code -> app.ipynb and folders to run -> Templates,static,models
--dataset -> data.csv
--report.pdf
--presentation.pptx
+* code project -> project.ipynb
+* app code -> app.ipynb and folders to run -> Templates,static,models
+* dataset -> data.csv
+* report.pdf
+* presentation.pptx
 
 # Instructions
 Download anaconda from anaconda installers.
