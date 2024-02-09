@@ -13,12 +13,12 @@ The folder contains:
 
 # Instructions
 Download anaconda from anaconda installers.
-• https://www.anaconda.com/products/individual
+* https://www.anaconda.com/products/individual
 
 Download the prerequisite packages:
-• conda activate (or other environment)
-• pip3 install -r requirements.txt
+* conda activate (or other environment)
+* pip3 install -r requirements.txt
 
 For the application:
-• I run app.ipynb file in jupyter notebook
-• Then click on http://127.0.0.1:5000/
+* I run app.ipynb file in jupyter notebook
+* Then click on http://127.0.0.1:5000/
